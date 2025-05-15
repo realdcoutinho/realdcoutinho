@@ -20,9 +20,8 @@ I'm a game developer and creative technologist passionate about building immersi
 </p>
 
 - 🎥 **Multimedia & Streaming**: GStreamer & NDI
-    <p align="left"> <a href="https://gstreamer.freedesktop.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14967102?s=200&v=4" alt="GSTREAMER" width="80" height="80"/> </a> 
-<a href="https://ndi.video/" target="_blank" rel="noreferrer"> <img src="https://www.vset3d.com/wp-content/uploads/2023/01/cropped-NDI-ICON-LAUNCHER-2.png" alt="NDI" width="80" height="80"/> </a>
-   <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" target="_blank" rel="noreferrer"> <img src="https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2022/10/MicrosoftTeams-image.jpg" alt="HLSL" width="80" height="80"/>
+<p align="left"> <a href="https://gstreamer.freedesktop.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14967102?s=200&v=4" alt="GSTREAMER" width="80" height="80"/> </a> 
+<a href="https://ndi.video/" target="_blank" rel="noreferrer"> <img src="https://www.vset3d.com/wp-content/uploads/2023/01/cropped-NDI-ICON-LAUNCHER-2.png" alt="NDI" width="80" height="80"/>
 </p>
 
 - ⚙️ **Backend & Systems**: Git, Visual Studio, Rider, Windows, limited Linux
