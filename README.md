@@ -12,6 +12,10 @@ I'm a game developer and creative technologist passionate about building immersi
 </p>
 
 - 🖥️ **Programming Languages**: C#, C++, Python, GLSL, HLSL
+  <p align="left"> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" width="80" height="80"/> </a> 
+   <a
+</p>
+  
 - 🧠 **XR & Interaction**: OpenXR, Meta Quest SDKs, VR locomotion systems, hand and controller interaction
 - 🎥 **Multimedia & Streaming**: GStreamer, OBS pipelines, real-time data visualization
 - ⚙️ **Backend & Systems**: Git, Visual Studio, Rider, Windows, limited Linux
