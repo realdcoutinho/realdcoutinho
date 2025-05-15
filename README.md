@@ -39,6 +39,7 @@
   </tr>
   <tr>
     <td valign="center" style="padding: 10px;">
+      <div style="white-space: nowrap;">
       <strong>🔧 Source Control & IDEs</strong><br><br>
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="60" />
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="60" />
