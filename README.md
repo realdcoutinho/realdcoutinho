@@ -5,10 +5,10 @@
 <table width="100%">
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realdcoutinho&show_icons=true&theme=dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realdcoutinho&show_icons=true&theme=transparent" />
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=realdcoutinho&show_icons=true&theme=dark" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=realdcoutinho&show_icons=true&theme=transparent" />
     </td>
   </tr>
 </table>
