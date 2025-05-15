@@ -22,9 +22,8 @@ I'm a game developer and creative technologist passionate about building immersi
 - ⚙️ **Backend & Systems**: Git, Github, Perforce, Visual Studio, Rider & Clion
   <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="80" height="80"/> </a> 
    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" width="80" height="80"/> </a>
-    
-   <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" target="_blank" rel="noreferrer"> <img src="https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2022/10/MicrosoftTeams-image.jpg" alt="HLSL" width="80" height="80"/> </a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="80" height="80"/>  </a>
+    <a href="https://www.perforce.com/products/helix-core" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/29477654?s=400&v=4" alt="Perforce" width="80" height="80"/> </a>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="80" height="80"/> </a>
          <a href="https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-60178D44-9990-45B4-8B43-9429D54DF70E" target="_blank" rel="noreferrer"> <img src="https://sator-imaging.gallerycdn.vsassets.io/extensions/sator-imaging/mel/0.1.2/1515967356068/Microsoft.VisualStudio.Services.Icons.Default" alt="MEL" width="80" height="80"/>   
 </p>
 
