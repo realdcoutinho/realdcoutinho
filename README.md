@@ -22,7 +22,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="center" style="padding: 50px;">
+    <td width="100%" valign="center" style="padding: 50px;">
       <strong>🎮 Game Engines</strong><br>
       Unity, Unreal Engine, Novara Engine<br><br>
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="40" />
