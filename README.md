@@ -16,7 +16,7 @@
 
 ## 🛠️ Technologies & Tools I Use
 
-<div align="left">
+<div align="center">
 <table width="100%">
   <tr>
     <td width="65%" valign="center" style="padding: 10px;">
