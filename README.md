@@ -49,7 +49,7 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaka7lSSotMEKd0YG8hwLJmCa1Ic2BwCLnVw&s" width="60" />
       </div>
     </td>
-    <td valign="center" style="padding: 10px;">
+    <td valign="top" style="padding: 10px;">
       <strong>🖼️ Graphics & Physics APIs</strong><br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" width="100" />
       <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2018/12/PhysX.png" width="100" />
