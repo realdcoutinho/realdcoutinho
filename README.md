@@ -1,6 +1,20 @@
-## Hi there 👋
+# 👋 Hello there, I'm Diogo!
 
- <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realdcoutinho&show_icons=true&theme=great-gatsby) -->
+I'm a game developer and creative technologist passionate about building immersive, interactive experiences—especially in VR and simulation. I enjoy crafting systems that feel intuitive and responsive, whether it's for training, entertainment, or industry applications.
+
+
+## 🛠️ Technologies & Tools I Use
+
+- 🎮 **Game Engines**: Unity & Unreal Engine
+- <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+- 🖥️ **Programming Languages**: C#, C++, Python, GLSL, HLSL
+- 🧠 **XR & Interaction**: OpenXR, Meta Quest SDKs, VR locomotion systems, hand and controller interaction
+- 🎥 **Multimedia & Streaming**: GStreamer, OBS pipelines, real-time data visualization
+- ⚙️ **Backend & Systems**: Git, Visual Studio, Rider, Windows, limited Linux
+- ✍️ **Documentation & Planning**: Markdown, Notion, Trello
+
+
 
 <table>
   <tr>
