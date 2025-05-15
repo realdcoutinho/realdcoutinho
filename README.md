@@ -6,7 +6,7 @@ I'm a game developer and creative technologist passionate about building immersi
 ## 🛠️ Technologies & Tools I Use
 
 - 🎮 **Game Engines**: Unity & Unreal Engine
-- <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+- <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://logo-marque.com/wp-content/uploads/2021/11/Unity-Nouveau-Logo.jpg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
 - 🖥️ **Programming Languages**: C#, C++, Python, GLSL, HLSL
 - 🧠 **XR & Interaction**: OpenXR, Meta Quest SDKs, VR locomotion systems, hand and controller interaction
