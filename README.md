@@ -30,7 +30,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="center" style="padding: 10px;">
+    <td valign="top" style="padding: 10px;">
       <strong>🔧 Source Control & IDEs</strong><br><br>
       <div style="white-space: nowrap;">
         <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="60" /></a>
