@@ -9,7 +9,7 @@
       Unity, Unreal Engine, Novara Engine<br><br>
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="40" />
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" width="40" />
-      <img src="https://private-user-images.githubusercontent.com/95390453/427767533-1abc67da-a420-488d-920a-dbb4683bfeb9.png" width="40" />
+      <img src="https://private-user-images.githubusercontent.com/95390453/427767533-1abc67da-a420-488d-920a-dbb4683bfeb9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMDU0MjEsIm5iZiI6MTc0NzMwNTEyMSwicGF0aCI6Ii85NTM5MDQ1My80Mjc3Njc1MzMtMWFiYzY3ZGEtYTQyMC00ODhkLTkyMGEtZGJiNDY4M2JmZWI5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDEwMzIwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZkZmM4ZDk0ZTdmMTk2MjJjMGZjNmI2NzE2OGIzYzk3ZDQ1YzVjY2Y5YTYxMjdmYzhhODM4NTViYzg3YWY3MTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TsdK4U9ELl-Rb9ShxLOHImfuWQA3byikFGGB3ShLJh0" width="40" />
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
       <strong>🖥️ Programming Languages</strong><br>
