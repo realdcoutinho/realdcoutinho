@@ -39,14 +39,15 @@
   </tr>
   <tr>
     <td valign="center" style="padding: 10px;">
-      <div style="white-space: nowrap;">
       <strong>🔧 Source Control & IDEs</strong><br><br>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="60" />
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="60" />
-      <img src="https://avatars.githubusercontent.com/u/29477654?s=400&v=4" width="60" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="60" />
-      <img src="https://www.jetbrains.com/guide/assets/logo-135a4cec.png" width="60" />
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaka7lSSotMEKd0YG8hwLJmCa1Ic2BwCLnVw&s" width="60" />
+   <div style="white-space: nowrap;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="60" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="60" />
+    <img src="https://avatars.githubusercontent.com/u/29477654?s=400&v=4" width="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="60" />
+    <img src="https://www.jetbrains.com/guide/assets/logo-135a4cec.png" width="60" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaka7lSSotMEKd0YG8hwLJmCa1Ic2BwCLnVw&s" width="60" />
+  </div>
     </td>
     <td valign="center" style="padding: 10px;">
       <strong>🖼️ Graphics & Physics APIs</strong><br><br>
