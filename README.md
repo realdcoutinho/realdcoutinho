@@ -23,6 +23,10 @@ I'm a game developer and creative technologist passionate about building immersi
 <p align="left"> <a href="https://learn.microsoft.com/en-us/windows/win32/getting-started-with-directx-graphics" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" alt="DirectX" width="120" height="80"/> </a> 
 </p>
 
+- 🪟 **GUI Frameworks**: Qt (C++ GUI Applications)
+  <p align="left"> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" alt="QT" width="120" height="80"/> </a> 
+</p>
+
 - 🎥 **Multimedia & Streaming**: GStreamer & NDI
 <p align="left"> <a href="https://gstreamer.freedesktop.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14967102?s=200&v=4" alt="GSTREAMER" width="80" height="80"/> </a> 
 <a href="https://ndi.video/" target="_blank" rel="noreferrer"> <img src="https://www.vset3d.com/wp-content/uploads/2023/01/cropped-NDI-ICON-LAUNCHER-2.png" alt="NDI" width="80" height="80"/>
@@ -31,10 +35,8 @@ I'm a game developer and creative technologist passionate about building immersi
 - ⚙️ **Backend & Systems**: Git, Visual Studio, Rider, Windows, limited Linux
 - ✍️ **Documentation & Planning**: Markdown, Notion, Trello
 
-## 🧰 Other Tools & APIs
 
-- 🖼️ **Graphics APIs**: DirectX 11/12, OpenGL
-- 🪟 **GUI Frameworks**: Qt (C++ GUI Applications)
+
 
 <table>
   <tr>
