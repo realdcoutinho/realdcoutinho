@@ -42,7 +42,7 @@
       </div>
     </td>
     <td valign="top" style="padding: 10px;">
-      <strong>🖼️ Graphics & Physics APIs</strong><br><br>
+      <strong>🖼️ Graphics/Physics APIs</strong><br><br>
       <a href="https://learn.microsoft.com/en-us/windows/win32/direct3d12/directx-graphics"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsHJzf9XEzCUb-_1WtG9iLqAd1WzLD8p8mkw&s" width="100" /></a>
       <a href="https://developer.nvidia.com/physx-sdk"><img src="https://developer-blogs.nvidia.com/wp-content/uploads/2018/12/PhysX.png" width="100" /></a>
     </td>
