@@ -6,25 +6,9 @@ I'm a game developer and creative technologist passionate about building immersi
 
 ## 🛠️ Technologies & Tools I Use
 
-### 🎮 Game Engines
-Unity, Unreal Engine, Novara Engine  
-<p align="left">
-  <a href="https://unity.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" width="60"/></a>
-  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" alt="Unreal" width="60"/></a>
-  <a href="https://github.com/realdcoutinho/Novara-Engine" target="_blank"><img src="https://private-user-images.githubusercontent.com/95390453/427767533-1abc67da-a420-488d-920a-dbb4683bfeb9.png" alt="Novara" width="60"/></a>
-</p>
+| 🎮 **Game Engines** | Unity, Unreal Engine, Novara Engine <br> <a href="https://unity.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="40"/></a> <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" width="40"/></a> <a href="https://github.com/realdcoutinho/Novara-Engine" target="_blank"><img src="https://private-user-images.githubusercontent.com/95390453/427767533-1abc67da-a420-488d-920a-dbb4683bfeb9.png" width="40"/></a> |
+| 🖥️ **Programming Languages** | C++, C#, HLSL, Python, MEL <br> <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width="40"/></a> <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40"/></a> <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" target="_blank"><img src="https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2022/10/MicrosoftTeams-image.jpg" width="40"/></a> <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="40"/></a> <a href="https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-60178D44-9990-45B4-8B43-9429D54DF70E" target="_blank"><img src="https://sator-imaging.gallerycdn.vsassets.io/extensions/sator-imaging/mel/0.1.2/1515967356068/Microsoft.VisualStudio.Services.Icons.Default" width="40"/></a> |
 
----
-
-### 🖥️ Programming Languages
-C++, C#, HLSL, Python, MEL  
-<p align="left">
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" width="50"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" width="50"/></a>
-  <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" target="_blank"><img src="https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2022/10/MicrosoftTeams-image.jpg" alt="HLSL" width="50"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="50"/></a>
-  <a href="https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-60178D44-9990-45B4-8B43-9429D54DF70E" target="_blank"><img src="https://sator-imaging.gallerycdn.vsassets.io/extensions/sator-imaging/mel/0.1.2/1515967356068/Microsoft.VisualStudio.Services.Icons.Default" alt="MEL" width="50"/></a>
-</p>
 
 ---
 
