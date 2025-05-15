@@ -22,7 +22,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="center" style="padding: 10px;">
+    <td width="65%" valign="center" style="padding: 10px;">
       <strong>🎮 Game Engines</strong><br><br>
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="60" />
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" width="60" />
