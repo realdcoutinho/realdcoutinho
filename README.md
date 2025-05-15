@@ -2,9 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realdcoutinho&show_icons=true&theme=great-gatsby)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=realdcoutinho)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=realdcoutinho&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=realdcoutinho)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=realdcoutinho&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **realdcoutinho/realdcoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
