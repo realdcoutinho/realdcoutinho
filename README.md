@@ -20,7 +20,7 @@ I'm a game developer and creative technologist passionate about building immersi
 </p>
 
 - 🖼️ **Graphics APIs**: DirectX 11/12
-<p align="left"> <a href="https://learn.microsoft.com/en-us/windows/win32/getting-started-with-directx-graphics" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/44/1/microsoft-directx-logo-png_seeklogo-444959.png" alt="DirectX" width="80" height="80"/> </a> 
+<p align="left"> <a href="https://learn.microsoft.com/en-us/windows/win32/getting-started-with-directx-graphics" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" alt="DirectX" width="120" height="80"/> </a> 
 </p>
 
 - 🎥 **Multimedia & Streaming**: GStreamer & NDI
