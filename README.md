@@ -29,8 +29,9 @@ I'm a game developer and creative technologist passionate about building immersi
          <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"> <img src="https://www.jetbrains.com/guide/assets/logo-135a4cec.png" alt="Rider" width="80" height="80"/>   
 </p>
 
-- 🖼️ **Graphics APIs**: DirectX 11/12
+- 🖼️ **Graphics & Physics APIs**: DirectX 11/12 & PhysX
 <p align="left"> <a href="https://learn.microsoft.com/en-us/windows/win32/getting-started-with-directx-graphics" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" alt="DirectX" width="120" height="80"/> </a> 
+  <a href="https://www.nvidia.com/en-us/drivers/physx/physx-9-19-0218-driver/" target="_blank" rel="noreferrer"> <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2018/12/PhysX.png" alt="PhysX" width="80" height="80"/>
 </p>
 
 - 🪟 **GUI Frameworks**: Qt (C++ GUI Applications)
