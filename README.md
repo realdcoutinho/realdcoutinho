@@ -20,7 +20,7 @@ I'm a game developer and creative technologist passionate about building immersi
 </p>
 
 - ⚙️ **Backend & Systems**: Git, Visual Studio, Rider, Windows, limited Linux
-  <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="80" height="80"/> </a>
+  <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="80" height="80"/> </a>
     
    <a href="https://dotnet.microsoft.com/en-us/languages/csharp#:~:text=C%23%20is%20a%20modern%2C%20innovative,5%20programming%20languages%20on%20GitHub." target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" width="80" height="80"/> </a>
    <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" target="_blank" rel="noreferrer"> <img src="https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2022/10/MicrosoftTeams-image.jpg" alt="HLSL" width="80" height="80"/> </a>
