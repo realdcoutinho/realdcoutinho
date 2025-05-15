@@ -2,18 +2,6 @@
 
 Creative technologist passionate about real-time graphics, VR, and building immersive, interactive experiences.
 
-## 📬 How to Contact Me
-
-<a href="https://github.com/realdcoutinho" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="30"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/diogo-coutinho-dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="30"/></a>
-&nbsp;&nbsp;
-<a href="mailto:diogo.coutinho.dev@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="30"/></a>
-&nbsp;&nbsp;
-<a href="https://coutinhodev.wixsite.com/home" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetarchive.svg" width="30"/></a>
-
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -83,3 +71,15 @@ Creative technologist passionate about real-time graphics, VR, and building imme
 </table>
 
 </div>
+
+## 📬 How to Contact Me
+
+<a href="https://github.com/realdcoutinho" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="30"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/diogo-coutinho-dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="30"/></a>
+&nbsp;&nbsp;
+<a href="mailto:diogo.coutinho.dev@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="30"/></a>
+&nbsp;&nbsp;
+<a href="https://coutinhodev.wixsite.com/home" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetarchive.svg" width="30"/></a>
+
+
