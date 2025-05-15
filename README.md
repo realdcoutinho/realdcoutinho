@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<table width="100%">
+<table width="200%">
   <tr>
     <td width="100%" valign="center" style="padding: 50px;">
       <strong>🎮 Game Engines</strong><br>
