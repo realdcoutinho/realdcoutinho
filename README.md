@@ -14,9 +14,9 @@
 </table>
 
 
+## 🛠️ Technologies & Tools I Use
 
 <div align="center">
-## 🛠️ Technologies & Tools I Use
 <table width="100%">
   <tr>
     <td width="65%" valign="center" style="padding: 10px;">
