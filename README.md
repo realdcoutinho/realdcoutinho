@@ -19,6 +19,10 @@ I'm a game developer and creative technologist passionate about building immersi
          <a href="https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-60178D44-9990-45B4-8B43-9429D54DF70E" target="_blank" rel="noreferrer"> <img src="https://sator-imaging.gallerycdn.vsassets.io/extensions/sator-imaging/mel/0.1.2/1515967356068/Microsoft.VisualStudio.Services.Icons.Default" alt="MEL" width="80" height="80"/>   
 </p>
 
+- 🖼️ **Graphics APIs**: DirectX 11/12
+- <p align="left"> <a href="https://learn.microsoft.com/en-us/windows/win32/getting-started-with-directx-graphics" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/44/2/microsoft-directx-logo-png_seeklogo-444959.png" alt="DirectX" width="80" height="80"/> </a> 
+</p>
+
 - 🎥 **Multimedia & Streaming**: GStreamer & NDI
 <p align="left"> <a href="https://gstreamer.freedesktop.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14967102?s=200&v=4" alt="GSTREAMER" width="80" height="80"/> </a> 
 <a href="https://ndi.video/" target="_blank" rel="noreferrer"> <img src="https://www.vset3d.com/wp-content/uploads/2023/01/cropped-NDI-ICON-LAUNCHER-2.png" alt="NDI" width="80" height="80"/>
