@@ -12,9 +12,6 @@
     </td>
   </tr>
 </table>
-
-</div>
-
 ## 🛠️ Technologies & Tools I Use
 
 <div align="center">
@@ -25,7 +22,7 @@
       <strong>🎮 Game Engines</strong><br><br>
       <a href="https://unity.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="60" /></a>
       <a href="https://www.unrealengine.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" width="60" /></a>
-      <a href="https://github.com/realdcoutinho/Novara-Engine"><img src="https://private-user-images.githubusercontent.com/95390453/427767533-1abc67da-a420-488d-920a-dbb4683bfeb9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMTA1NDEsIm5iZiI6MTc0NzMxMDI0MSwicGF0aCI6Ii85NTM5MDQ1My80Mjc3Njc1MzMtMWFiYzY3ZGEtYTQyMC00ODhkLTkyMGEtZGJiNDY4M2JmZWI5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDExNTcyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiYTA5NjQ5Nzg1ZjEwMzE2NDZiOTU3YWRjNjU5YWZkNmUxZDA3YjA5MWE0N2NlZjExYzhmZWY5ZjRlNWU5OTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Depl2RdUJ5JCjWqP98h3Z2mjBIFMmgR-66BNHNEz-kY" width="60" /></a>
+      <a href="https://github.com/realdcoutinho/Novara-Engine"><img src="https://github.com/user-attachments/assets/b14e3587-1ab0-4a59-99d0-84465827a0cb" width="60" /></a>
     </td>
     <td valign="center" style="padding: 10px;">
       <strong>🏗️ GUI Frameworks</strong><br><br>
