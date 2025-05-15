@@ -22,7 +22,7 @@
       <strong>🎮 Game Engines</strong><br><br>
       <a href="https://unity.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="60" /></a>
       <a href="https://www.unrealengine.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" width="60" /></a>
-      <a href="https://github.com/realdcoutinho/Novara-Engine"><img src="https://github.com/user-attachments/assets/b14e3587-1ab0-4a59-99d0-84465827a0cb" width="60" /></a>
+      <a href="https://github.com/realdcoutinho/Novara-Engine"><img src="https://github.com/user-attachments/assets/540ffb76-5b15-49e3-89c7-0c1442afc38e" width="60" /></a>
     </td>
     <td valign="center" style="padding: 10px;">
       <strong>🏗️ GUI Frameworks</strong><br><br>
