@@ -24,7 +24,7 @@ I'm a game developer and creative technologist passionate about building immersi
 </p>
 
 - 🪟 **GUI Frameworks**: Qt (C++ GUI Applications)
-  <p align="left"> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" alt="QT" width="120" height="80"/> </a> 
+  <p align="left"> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" alt="QT" width="80" height="80"/> </a> 
 </p>
 
 - 🎥 **Multimedia & Streaming**: GStreamer & NDI
