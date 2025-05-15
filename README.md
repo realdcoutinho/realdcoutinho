@@ -76,9 +76,9 @@ Creative technologist passionate about real-time graphics, VR, and building imme
 
 <a href="https://github.com/realdcoutinho" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="30"/></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/diogo-coutinho-dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="30"/></a>
+<a href="https://www.linkedin.com/in/diogo-de-moura-coutinho-888866158/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="30"/></a>
 &nbsp;&nbsp;
-<a href="mailto:diogo.coutinho.dev@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="30"/></a>
+<a href="mailto:coutinho.dev@yahoo.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="30"/></a>
 &nbsp;&nbsp;
 <a href="https://coutinhodev.wixsite.com/home" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetarchive.svg" width="30"/></a>
 
