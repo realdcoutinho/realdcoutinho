@@ -14,6 +14,7 @@ I'm a game developer and creative technologist passionate about building immersi
 - 🖥️ **Programming Languages**: C++, C#, Python, GLSL, HLSL
   <p align="left"> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" width="80" height="80"/> </a> 
    <a href="https://dotnet.microsoft.com/en-us/languages/csharp#:~:text=C%23%20is%20a%20modern%2C%20innovative,5%20programming%20languages%20on%20GitHub." target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" width="80" height="80"/> </a>
+   <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png](https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2022/10/MicrosoftTeams-image.jpg)" alt="HLSL" width="80" height="80"/> </a>
 </p>
   
 - 🧠 **XR & Interaction**: OpenXR, Meta Quest SDKs, VR locomotion systems, hand and controller interaction
