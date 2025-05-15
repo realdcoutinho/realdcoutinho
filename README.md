@@ -19,10 +19,12 @@ I'm a game developer and creative technologist passionate about building immersi
          <a href="https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-60178D44-9990-45B4-8B43-9429D54DF70E" target="_blank" rel="noreferrer"> <img src="https://sator-imaging.gallerycdn.vsassets.io/extensions/sator-imaging/mel/0.1.2/1515967356068/Microsoft.VisualStudio.Services.Icons.Default" alt="MEL" width="80" height="80"/>   
 </p>
 
+- 🎥 **Multimedia & Streaming**: GStreamer & NDI
+    <p align="left"> <a href="https://gstreamer.freedesktop.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14967102?s=200&v=4" alt="GSTREAMER" width="80" height="80"/> </a> 
+<a href="https://ndi.video/" target="_blank" rel="noreferrer"> <img src="https://www.vset3d.com/wp-content/uploads/2023/01/cropped-NDI-ICON-LAUNCHER-2.png" alt="NDI" width="80" height="80"/> </a>
+   <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" target="_blank" rel="noreferrer"> <img src="https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2022/10/MicrosoftTeams-image.jpg" alt="HLSL" width="80" height="80"/>
+</p>
 
-  
-- 🧠 **XR & Interaction**: OpenXR, Meta Quest SDKs, VR locomotion systems, hand and controller interaction
-- 🎥 **Multimedia & Streaming**: GStreamer, OBS pipelines, real-time data visualization
 - ⚙️ **Backend & Systems**: Git, Visual Studio, Rider, Windows, limited Linux
 - ✍️ **Documentation & Planning**: Markdown, Notion, Trello
 
