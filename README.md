@@ -60,6 +60,7 @@
       <img src="https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2022/10/MicrosoftTeams-image.jpg" width="60" />
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="60" />
       <img src="https://sator-imaging.gallerycdn.vsassets.io/extensions/sator-imaging/mel/0.1.2/1515967356068/Microsoft.VisualStudio.Services.Icons.Default" width="60" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" width="60" />
     </td>
     <td valign="center" style="padding: 10px;">
       <strong>🎥 Multimedia & Streaming</strong><br><br>
