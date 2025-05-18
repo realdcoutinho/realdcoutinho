@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Creative technologist passionate about real-time graphics, VR, and building immersive, interactive experiences
+Creative technologist passionate about real-time graphics, VR, and building immersive, interactive experiences.
 
 ## 📊 GitHub Stats
 
